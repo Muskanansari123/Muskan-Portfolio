@@ -1,0 +1,40 @@
+body {
+    background-color: #eaf6ff;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #397da8;
+}
+
+.menu {
+    text-align: center;
+    padding: 10px;
+}
+
+a {
+    color: #d96f9b;
+    text-decoration: none;
+}
+
+.box {
+    background-color: white;
+    border: 1px solid #b9dff5;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 15px auto;
+    max-width: 700px;
+}
+
+h2 {
+    color: #d96f9b;
+}
+
+.footer {
+    text-align: center;
+    color: #397da8;
+    padding: 10px;
+}
